@@ -111,6 +111,6 @@ background: url(http://bp0.blogger.com/_Zuzii37VUO4/RliVkJya0kI/AAAAAAAABks/zwQF
 	#portfolio .item:nth-child(6),
 	#portfolio .item:nth-child(7),
 	#portfolio .item:nth-child(8) {
-		margin-bottom: 0;
+		margin-bottom: 25;
 	}
 }
