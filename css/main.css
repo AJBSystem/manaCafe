@@ -278,13 +278,21 @@ INTRO CONTAINER
     background-position: 70% 50%;
 }
  .featured.background_content{
-    background: url('../images/featured.jpg') no-repeat center center; 
+    background: url('../images/mattias-diesel-281546-unsplash.jpg') no-repeat center center; 
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
 }
+
+.highlights.background_content{
+    background: url(../images/Refe_59997575d2d3b_StockSnap_L2CPKJR7RL.jpg) no-repeat center center;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
  .pricing.background_content{
-    background: url('../images/Refe_5816252af0fe5_StockSnap_5YHRDJ0VRZ.jpg ') no-repeat center center; 
+    background: url('../images/irina-219832-unsplash.jpg ') no-repeat center center; 
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -311,7 +319,7 @@ DESCRIPTION BODY CONTENT
     margin: 0 auto 0 auto;
     z-index: 99;
     position: relative;
-    background: white;
+    background: #F5F5F5;
     text-align: center; 
 }
 .description_body {
